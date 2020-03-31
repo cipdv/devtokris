@@ -15,12 +15,6 @@ mongoose.Promise = global.Promise;
 
 mongoose.connect('mongodb+srv://appointments-kris:OFq1yrQClNzSVr3b@appointments-typru.mongodb.net/test?retryWrites=true&w=majority')
 
-//mongoose pw OFq1yrQClNzSVr3b
-//mongoose connection string mongodb+srv://appointments-kris:<password>@appointments-typru.mongodb.net/test?retryWrites=true&w=majority
-//mongoose username appointments-kris
-
-//nexmo key af85bb1b
-//nexmo secret pjLr30fYCdHQ93DG
 
 // view engine setup
 
